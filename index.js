@@ -1,7 +1,4 @@
 const app = "I don't do much."
 
+var kittens = ["Milo", "Otis", "Garfield"];
 
-function destructiveleyAppendKitten(name){
-name["ralph"];
-return array
-}
