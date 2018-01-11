@@ -14,6 +14,6 @@ function destructivelyRemoveLastKitten(){
   kittens.pop();
 }
 
-funtion destructivelyRemoveFirstKitten(){
+function destructivelyRemoveFirstKitten(){
   kittens.shift();
 }
