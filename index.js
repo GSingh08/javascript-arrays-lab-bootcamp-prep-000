@@ -32,7 +32,7 @@ function prependKitten(name){
 }
 
 removeLastKitten(){
-  
+  kittens.pop();
 }
 
 
