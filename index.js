@@ -40,7 +40,9 @@ return kittens.slice(3)
 }
 
 
-
+function removeFirstKitten(){
+  
+}
 
 
 
